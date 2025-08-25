@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # === CONFIG ===
-TELEGRAM_BOT_TOKEN = "8470224290:AAG_qI3sWUWe4FJ6h37EwkQYt06x_y1ZuA8"
+TELEGRAM_BOT_TOKEN = "PASTE_YOUR_TOKEN_HERE"
 BASE_URL = "https://growagarden.fandom.com/wiki/"
 HEADERS = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
